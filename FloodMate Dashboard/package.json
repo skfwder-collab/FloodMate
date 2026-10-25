@@ -1,0 +1,12 @@
+{
+  "name": "floodmate-app",
+  "version": "1.0.0",
+  "description": "FloodMate Hyper-local Flood Radar Web Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
